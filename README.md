@@ -2,10 +2,10 @@
 This repository includes the project of the [HackZurich 2021](https://devpost.com/software/remix-essentially-spotify-for-workouts-excersises) ([source repository](https://github.com/JollyBrackets/remix)). The code is written in `Vue` with `JavaScript`.
 
 ## Screenshots
-![./src/assets/browsing-page](browsing-page.png)
-![./src/assets/profile-settings](profile-settings.png)
-![./src/assets/mixtape-ui](mixtape-ui.png)
-![./src/assets/biometrics](biometrics.png)
+![browsing-page](./src/assets/browsing-page.png)
+![profile-settings](./src/assets/profile-settings.png)
+![/mixtape-ui](./src/assets/mixtape-ui.png)
+![biometrics](./src/assets/biometrics.png)
 
 ## Inspiration
 Spotify has perfected its playlists: users can listen to mixes of a specific genre, playlists tailored specifically to their own taste, and listeners can even create their own mixes from scratch. All of these creations can be rated, saved, personalized, and shared! Why hasn’t the huge workout community jumped on this train? So many people find themselves overwhelmed by the huge offer of random workout and mindfulness videos online. The comfort of getting an exercise remix tailored specifically to your needs (with your Garmin Watch data and previous workout history) lowers the barrier to start and keep exercising immensely, essentially Spotify for workouts/exercises.
