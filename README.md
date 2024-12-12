@@ -30,7 +30,12 @@ From CSS syntax to Firebase Storage to patience with slow Wifi, Xcode update and
 npm install
 ```
 
-## Compiles and minifies for production
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
 ```
 npm run build
 ```
