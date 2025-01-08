@@ -1,5 +1,5 @@
 # SpotiFit
-This repository includes the project of the [HackZurich 2021](https://devpost.com/software/remix-essentially-spotify-for-workouts-excersises) ([source repository](https://github.com/JollyBrackets/remix)). The code is written in `Vue` with `JavaScript`.
+This repository includes the project of the [HackZurich 2021](https://devpost.com/software/remix-essentially-spotify-for-workouts-excersises) ([source repository](https://github.com/JollyBrackets/remix/tree/fc16e135aba8cf03b77db1418a77848bbab01c0b)). The code is written in `Vue` with `JavaScript`.
 
 Main packages: `vue`, `vuetify`, `tailwindcss`, `firebase`
 
